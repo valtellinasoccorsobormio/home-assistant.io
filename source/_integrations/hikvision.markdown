@@ -70,6 +70,7 @@ This platform also was confirmed to work with the following Hikvison-based NVRS
 
 - N46PCK (Annke H800 4K NVR)
 - N48PAW (Annke 4K NVR)
+- DW81KD (Annke DVR)
 
 ## Configuration
 
